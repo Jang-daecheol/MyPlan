@@ -18,5 +18,5 @@
 # 성과 기록 (실제로 수행 하였는가)
 (2025-09-01 업데이트됨)
 
-AWS Cloud Practitioner Essentials 교육 수강 (11챕터중 3챕터 완료) 
+AWS Cloud Practitioner Essentials 교육 수강 (25% 완료)
 
