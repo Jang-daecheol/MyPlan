@@ -16,7 +16,8 @@
 
 
 # 성과 기록 (실제로 수행 하였는가)
-(2025-09-01 업데이트됨)
+(2025-09-02 업데이트됨)
 
-AWS Cloud Practitioner Essentials 교육 수강 (25% 완료)
+AWS Cloud Practitioner Essentials 교육 수강 (45% 완료)
+NodeJS를 이용한 로그인 클라이언트 만들기
 
