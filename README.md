@@ -17,9 +17,11 @@
 
 
 # 성과 기록 (실제로 수행 하였는가)
-(2025-09-16 업데이트됨)
+(2025-09-22 업데이트됨)
 
 AWS Cloud Practitioner Essentials 교육 수강 (완료)
+
+AWS Technical Essentials 교육 수강 (33% 완료)
 
 NodeJS를 이용한 로그인 클라이언트 만들기 (서버 코드 파일 및 클라이언트 코드 파일 분리 필요)
 flutter를 이용한 UI 구현
